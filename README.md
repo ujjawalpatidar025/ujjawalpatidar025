@@ -74,12 +74,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ujjawalpatidar025/ujjawalpatidar025/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ujjawalpatidar025/count.svg?"  />
 </div>
+
+
+![snake gif](https://github.com/ujjawalpatidar025/ujjawalpatidar025/blob/output/github-contribution-grid-snake.gif)
 
 ###

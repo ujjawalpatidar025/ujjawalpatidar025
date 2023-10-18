@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/ujjawalpatidar025/ujjawalpatidar025/output/snake.svg" alt="snake animation"/>
 
 
 <div align="center">

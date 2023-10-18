@@ -1,13 +1,10 @@
 <h2 align="left">Hi 👋! My name is Ujjawal Patidar , I'm a MERN Stack Developer🤩, and a final year under-graduate from Indore Institute of Science and Technology🤞</h2>
 
-###
 
-
-###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/5b/ea/35/5bea35af95955f8846988744c8e47874.jpg"  />
 
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -56,7 +53,7 @@
 
 
 
-###
+
 
 <div align="left">
   <a href="https://www.instagram.com/its_U_jjawal/" target="_blank">
@@ -70,12 +67,12 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
 
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ujjawalpatidar025/count.svg?"  />
@@ -84,4 +81,4 @@
 
 ![snake gif](https://github.com/ujjawalpatidar025/ujjawalpatidar025/blob/output/github-contribution-grid-snake.gif)
 
-###
+
